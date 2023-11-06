@@ -2,7 +2,7 @@
 display: grid;
 grid-template-columns: 1fr 1fr 4fr ;
 grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
-gap: 10px;
+gap: 15px;
 }
 .logo{
     height: 250px;
@@ -18,7 +18,8 @@ h1{
     grid-column: 2/4;
     border: solid black;
     border-radius: 10px;
-    height: 60%;
+    height: 90%;
+    margin-top: 0%;
     background-color: #FF5C5C;
 }
 .bild{
